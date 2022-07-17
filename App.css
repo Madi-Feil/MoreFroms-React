@@ -1,0 +1,32 @@
+form {
+  width: 500px;
+  margin: auto;
+  text-align: left;
+}
+
+input, select {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+label {
+  width: 35%;
+  display: inline-block;
+  color: darkgray;
+}
+
+.App {
+  text-align: center;
+  text-align: left;
+  width: 550px; 
+  height: 500px;
+  border-radius: 5px;
+  background-color: #d6ffe6;
+  border: 1px solid darkgrey;
+  padding: 0px 10px;
+  margin: auto;
+}
